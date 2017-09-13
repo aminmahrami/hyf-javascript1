@@ -4,7 +4,7 @@ let x = 7;
 //rounded of 7.25, to the nearest integer
 Math.round(7.23);// rounded = 7
 
-let colors =["red","green","blue"]; //array called colors with the strings
+let colors =["red","green","blue"]; //array  called colors with the strings
 //length of the string
 console.log(colors.length); // length = 3 
 
