@@ -1,4 +1,5 @@
-    function foo(func) {
+//14   
+function foo(func) {
         func();
     }
     
